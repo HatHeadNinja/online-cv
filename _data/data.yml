@@ -176,10 +176,10 @@ skills:
       values: Cypress, Mocha/Chai, Storybook, Jest
       
     - category: Analysis
-      values: process mapping, simulation, user testing, data design, prototyping
+      values: Process Mapping, Simulation, User Testing, Data Design, Prototyping
       
     - category: People
-      values: communication, facilitation, team building, client management
+      values: Communication, Facilitation, Team Building, Client Management
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
