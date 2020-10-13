@@ -52,30 +52,28 @@ career-profile:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These projects were completed during the Lighthouse Labs bootcamp.
 
     assignments:
       - title: Interview Scheduler
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://github.com/HatHeadNinja/scheduler-app"
+        tagline: "A single page React application for scheduling using node, express and postgress"
 
       - title: Tweeter
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: "https://github.com/HatHeadNinja/tweeter"
+        tagline: "A single page app for tweeting using node, express, jQuery, javascript, ajax, html, css"
 
       - title: TinyApp
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: "https://github.com/HatHeadNinja/tinyapp"
+        tagline: "A URL shortening app using node, express, ejs, javascript, html, css"
 
       - title: Quiz App
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: "https://github.com/HatHeadNinja/quiz-app"
+        tagline: "A quiz app built with node, express, postgres, jQuery, ajax, javascript, html, css"
 
-      - title: Final Project
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Polylog
+        link: "https://github.com/HatHeadNinja/polylog"
+        tagline: "An interactive video lecture application using React, node, express, postgress, javascript, html, css"
 
 experiences:
     - role: Full Time Web Development Student
