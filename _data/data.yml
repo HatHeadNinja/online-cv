@@ -158,7 +158,7 @@ skills:
       values: Node.js, Express, EJS, ERB
 
     - category: Systems, CMS & Databases
-      values: Git, PostgreSQL, MySQL, npm, WordPress, Joomla, Drupal
+      values: Git, PostgreSQL, MySQL, NPM, WordPress, Joomla, Drupal
 
     - category: Testing
       values: Cypress, Mocha/Chai, Storybook, Jest
