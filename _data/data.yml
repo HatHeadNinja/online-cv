@@ -42,11 +42,11 @@ career-profile:
     summary: |
       With over 25 years experience delivering software projects and apps,
       I have been a tester, business analyst, developer, project manager,
-      product owner and have also managed staff in all these roles.
-      Rediscovered my passion for coding and am excited to apply my experience
-      to the role.
+      and product owner. Additionally, I have also managed staff in all 
+      these roles and led teams in all these roles.
       
-      You can [download my resume/CV template here]().
+      Rediscovered my passion for coding and am excited to apply my experience
+      and skills to the role. You can [download my resume/CV template here]().
 
 education:
     - degree: MSc in Computer Science
@@ -76,9 +76,9 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Full Time Web Development Student
+      time: 2020 - Present
+      company: Lighthouse Labs, Vancouver
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -89,9 +89,6 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
 
     - role: Senior Software Engineer
       time: 2014 - 2015
