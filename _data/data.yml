@@ -141,9 +141,9 @@ experiences:
           - Bullet point
 
 skills:
-    title: Skills
+  title: Skills
 
-toolset:
+  toolset:
     - category: Languages
       values: HTML5, CSS, SASS, JavaScript (ES6), Ruby, SQL
 
