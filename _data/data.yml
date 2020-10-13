@@ -176,7 +176,7 @@ skills:
       values: Cypress, Mocha/Chai, Storybook, Jest
       
     - category: Analysis
-      values: Process Mapping, User Testing, Data Design, Prototyping
+      values: Process Mapping, Data Design, Prototyping, User Testing
       
     - category: People
       values: Communication, Facilitation, Team Building, Client Management
