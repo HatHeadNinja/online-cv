@@ -57,23 +57,23 @@ projects:
     assignments:
       - title: Interview Scheduler
         link: "https://github.com/HatHeadNinja/scheduler-app"
-        tagline: "A single page React application for scheduling using node, express and postgress"
+        tagline: "A single page React application for scheduling using Node, Express, Postgres, Jest, Cypress, Storybook, HTML, CSS"
 
       - title: Tweeter
         link: "https://github.com/HatHeadNinja/tweeter"
-        tagline: "A single page app for tweeting using node, express, jQuery, javascript, ajax, html, css"
+        tagline: "A single page app for tweeting using Node, Express, jQuery, Javascript, Ajax, HTML, CSS"
 
       - title: TinyApp
         link: "https://github.com/HatHeadNinja/tinyapp"
-        tagline: "A URL shortening app using node, express, ejs, javascript, html, css"
+        tagline: "A URL shortening app using Node, Express, EJS,Javascript, HTML, CSS"
 
       - title: Quiz App
         link: "https://github.com/HatHeadNinja/quiz-app"
-        tagline: "A quiz app built with node, express, postgres, jQuery, ajax, javascript, html, css"
+        tagline: "A quiz app built with Node, Express, Postgres, jQuery, Ajax, Javascript, HTML, CSS"
 
       - title: Polylog
         link: "https://github.com/HatHeadNinja/polylog"
-        tagline: "An interactive video lecture application using React, node, express, postgress, javascript, html, css"
+        tagline: "An interactive video lecture application using React, Node, Express, Postgress, Javascript, HTML, CSS, Jest, Cypress, Storybook"
 
 experiences:
     - role: Full Time Web Development Student
