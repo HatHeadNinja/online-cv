@@ -40,52 +40,77 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+      Rediscovered my passion for coding and am excited to apply my experience
+      and skills as a software developer again. As a developer, I always seek 
+      to understand the problem and collaborate on the solution.
+      
       With over 25 years experience delivering software projects and apps,
       I have been a tester, business analyst, developer, project manager,
-      product owner and director. I have also managed staff and led teams
-      in all these roles.
-      
-      Rediscovered my passion for coding and am excited to apply my experience
-      and skills to the role. You can [download my resume here]().
+      product owner, consultant and director. I have also managed 
+      staff and led teams in all these roles.
 
 experiences:
     - role: Full Time Web Development Student
       time: 2020 - Present
       company: Lighthouse Labs, Vancouver
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+          - Bullet point
 
-    - role: Senior Software Engineer
+    - role: Senior Project Manager
       time: 2014 - 2015
-      company: Google, London
+      company: Vanbex Group, Vancouver
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
+          - Bullet point
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
+    - role: Senior Project Manager
       time: 2012 - 2014
-      company: Amazon, London
+      company: Appnovation, Vancouver
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          - Bullet point
 
+    - role: Senior Project Manager, Strategic Accounts
+      time: 2012 - 2014
+      company: QuickMobile, Vancouver
+      details: |
+          - Bullet point
+          - Bullet point
+          - Bullet point
+          
+    - role: Principal
+      time: 2012 - 2014
+      company: Serious Worlds, Toronto
+      details: |
+          - Bullet point
+          - Bullet point
+          - Bullet point
+      
+    - role: Consultant
+      time: 2012 - 2014
+      company: InfiniteKM, Toronto
+      details: |
+          - Bullet point
+          - Bullet point
+          - Bullet point
+          
+    - role: Director, Requirements Analysis and Quality Assurance
+      time: 2012 - 2014
+      company: Insureance Bureau of Canada, Toronto
+      details: |
+          - Bullet point
+          - Bullet point
+          - Bullet point
+      
+    - role: Manager, Business Process Redesign and Operations Reporting
+      time: 2012 - 2014
+      company: Fidelity Investments Canada, Toronto
+      details: |
+          - Bullet point
           - Bullet point
           - Bullet point
 
