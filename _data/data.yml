@@ -105,65 +105,56 @@ experiences:
       time: 2020 - Present
       company: Lighthouse Labs, Vancouver
       details: |
-          - Bullet point
-          - Bullet point
-          - Bullet point
+          - 12 week intensive, project based learning
 
     - role: Senior Project Manager
       time: 2014 - 2015
       company: Vanbex Group, Vancouver
       details: |
-          - Bullet point
-          - Bullet point
-          - Bullet point
+          - launched two blockchain products
+          - led product, development and devops teams
 
     - role: Senior Project Manager
       time: 2012 - 2014
       company: Appnovation, Vancouver
       details: |
-          - Bullet point
-          - Bullet point
-          - Bullet point
+          - led matrix teams to define, design and develop custom solutions
+          - peer nominated for annual employee recognition award
 
     - role: Senior Project Manager, Strategic Accounts
       time: 2012 - 2014
       company: QuickMobile, Vancouver
       details: |
-          - Bullet point
-          - Bullet point
-          - Bullet point
+          - led team of project managers, developers and testers
+          - annual employee recognition award
           
     - role: Principal
       time: 2012 - 2014
       company: Serious Worlds, Toronto
       details: |
-          - Bullet point
-          - Bullet point
-          - Bullet point
+          - Virtual world event production and education solutions
+          - Learning Innovation award from IBM
       
     - role: Consultant
       time: 2012 - 2014
       company: InfiniteKM, Toronto
       details: |
-          - Bullet point
-          - Bullet point
-          - Bullet point
+          - management consulting, including Xerox Global Services
+          - project management, including BMW, NovoNordis, ManuLife
           
     - role: Director, Requirements Analysis and Quality Assurance
       time: 2012 - 2014
-      company: Insureance Bureau of Canada, Toronto
+      company: Insurance Bureau of Canada, Toronto
       details: |
-          - Bullet point
-          - Bullet point
-          - Bullet point
+          - led team of business analysts, systems analysts and testers
+          - Business transformation from magentic tape to data warehouse
       
     - role: Manager, Business Process Redesign and Operations Reporting
       time: 2012 - 2014
       company: Fidelity Investments Canada, Toronto
       details: |
-          - Bullet point
-          - Bullet point
-          - Bullet point
+          - led team of supervisors, developers, business anaylsts testers and trainers
+          - Automated manual, paper-based back office processes
 
 skills:
   title: Skills
@@ -179,7 +170,7 @@ skills:
       values: Node.js, Express, EJS, ERB
 
     - category: Systems, CMS & Databases
-      values: Git, PostgreSQL, npm, asdf, jekyll
+      values: Git, PostgreSQL, MySQL, npm, WordPress, Joomla, Drupal
 
     - category: Testing
       values: Cypress, Mocha/Chai, Storybook, Jest
