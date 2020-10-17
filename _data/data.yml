@@ -98,10 +98,6 @@ projects:
         link: "https://github.com/HatHeadNinja/quiz-app"
         tagline: "A quiz app built with Node, Express, Postgres, jQuery, Ajax, Javascript, HTML, CSS"
 
-      - title: Polylog
-        link: "https://github.com/HatHeadNinja/polylog"
-        tagline: "An interactive video lecture application using React, Node, Express, Postgres, Javascript, HTML, CSS, Jest, Cypress, Storybook"
-
 experiences:
     - role: Full Time Web Development Student
       time: 2020 - Present
