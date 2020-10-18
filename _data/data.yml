@@ -61,17 +61,17 @@ education:
     - degree: Agile Certified Professional (ACP)
       university: Project Management Institute
       
-    - degree: Innovation Bootcamp
-      university: Game Thinking Academy
-      
-    - degree: Gamification
-      university: Wharton School of Business
-      
     - degree: Applied Behavioral Design
       university: AlterSpark
       
     - degree: Prototyping
       university: Prototype Thinking
+      
+    - degree: Gamification
+      university: Wharton School of Business
+      
+    - degree: Innovation Bootcamp
+      university: Game Thinking Academy
       
     - degree: Lateral Thinking & Six Thinking Hats
       university: de Bono Institute
