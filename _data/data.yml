@@ -164,6 +164,9 @@ skills:
 
     - category: Testing
       values: Cypress, Mocha/Chai, Storybook, Jest
+ 
+    - category: Project Tools
+      values: JIRA / Confluence, Github Projects / Wiki, Trello, Asana 
       
     - category: Analysis
       values: Process Mapping, Data Design, Prototyping, User Testing
