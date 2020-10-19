@@ -166,7 +166,7 @@ skills:
       values: Cypress, Mocha/Chai, Storybook, Jest
  
     - category: Project Tools
-      values: JIRA / Confluence, Github Projects / Wiki, Trello, Asana, SmartSheet, Microsoft Project 
+      values: JIRA, Github Projects, Trello, Asana, SmartSheet, Microsoft Project 
       
     - category: Analysis
       values: Process Mapping, Data Design, Prototyping, User Testing
