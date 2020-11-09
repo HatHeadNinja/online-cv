@@ -52,29 +52,26 @@ career-profile:
       Let's build great software together!
       
 education:
-    - degree: Web Development Graduate
-      university: Lighthouse Labs
+    - degree: Web Development Diploma
+      university: Lighthouse Labs, Nov 2020
       
     - degree: Project Management Professional (PMP)
-      university: Project Management Institute
+      university: Project Management Institute, Nov 2012
       
     - degree: Agile Certified Professional (ACP)
-      university: Project Management Institute
+      university: Project Management Institute, Nov 2013
       
     - degree: Applied Behavioral Design
-      university: AlterSpark
-      
-    - degree: Prototyping
-      university: Prototype Thinking
+      university: AlterSpark, Sept 2019
       
     - degree: Gamification
-      university: Wharton School of Business
+      university: Wharton School of Business, Mar 2015
       
     - degree: Innovation Bootcamp
-      university: Game Thinking Academy
+      university: Game Thinking Academy, July 2020
       
     - degree: Lateral Thinking & Six Thinking Hats
-      university: de Bono Institute
+      university: de Bono Institute, Sept 1998
       
 projects:
     title: Projects
