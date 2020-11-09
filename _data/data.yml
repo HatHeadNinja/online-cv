@@ -79,13 +79,13 @@ projects:
       These projects were completed during the Lighthouse Labs bootcamp.
 
     assignments:
-     - title: Polylog
-        link: https://github.com/HatHeadNinja/polylog
-        tagline: "A live lecture video app built with Figma, Storrybook, React, Node, Express, Postgres SQL, Javascript, HTML, CSS"
+        - title: Polylog
+          link: "https://github.com/HatHeadNinja/polylog"
+          tagline: "A live lecture video app built with Figma, Storrybook, React, Node, Express, Postgres SQL, Javascript, HTML, CSS"
 
-      - title: Quiz App
-        link: "https://github.com/HatHeadNinja/quiz-app"
-        tagline: "A quiz app built with Node, Express, Postgres, jQuery, Ajax, Javascript, HTML, CSS"
+        - title: Quiz App
+          link: "https://github.com/HatHeadNinja/quiz-app"
+          tagline: "A quiz app built with Node, Express, Postgres, jQuery, Ajax, Javascript, HTML, CSS"
 
 experiences:
     - role: Full Time Web Development Student
