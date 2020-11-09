@@ -80,7 +80,7 @@ projects:
 
     assignments:
      - title: Polylog
-        link: "https://github.com/HatHeadNinja/polylog"
+        link: https://github.com/HatHeadNinja/polylog
         tagline: "A live lecture video app built with Figma, Storrybook, React, Node, Express, Postgres SQL, Javascript, HTML, CSS"
 
       - title: Quiz App
