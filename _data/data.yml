@@ -81,7 +81,7 @@ projects:
     assignments:
         - title: Polylog
           link: "https://github.com/HatHeadNinja/polylog"
-          tagline: "A live lecture video app built with Figma, Storybook, React, Node, Express, Postgres SQL, Javascript, HTML, CSS. (Nov 2020)"
+          tagline: "A live lecture video app built with Figma, Storybook, React, Node, Express, Postgres SQL, Material UI, Javascript, HTML, CSS. (Nov 2020)"
 
         - title: Quiz App
           link: "https://github.com/HatHeadNinja/quiz-app"
@@ -125,7 +125,7 @@ skills:
       values: HTML5, CSS, SASS, JavaScript (ES6), Ruby, SQL
 
     - category: Front-End Frameworks
-      values: React, jQuery, Ajax, Bootstrap
+      values: React, jQuery, Ajax, Bootstrap, Material-UI, Storybook
 
     - category: Back-End Frameworks
       values: Node.js, Express, EJS, ERB
